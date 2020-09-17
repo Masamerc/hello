@@ -1,5 +1,7 @@
 ## Developer Portfolio Landing Page Template
 
+IDEA: https://docs.google.com/presentation/d/1xI4M4uwKlROHco4N7qA2xGHvPN6FgPma85oEu57N75g/edit#slide=id.p1
+
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
